@@ -29,10 +29,6 @@
 
 This project provides a straightforward, accessible web interface for administrators and students to seamlessly add, view, and manage university courses. By migrating manual course catalogs into a digitized, relational database structure, it ensures higher efficiency and accurate record keeping. 
 
-<div align="center">
-  <img width="80%" alt="Form Preview" src="https://via.placeholder.com/800x400.png?text=Add+Screenshot+or+Demo+GIF+Here" />
-</div>
-
 ---
 
 ## 🚀 Key Features
